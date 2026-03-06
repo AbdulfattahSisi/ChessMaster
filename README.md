@@ -122,25 +122,11 @@ npx expo start --tunnel
 
 ---
 
-## 💼 Applicabilité au Projet MyEPI (OCP Khouribga)
-
-| Fonctionnalité MyEPI | Équivalent ChessMaster |
-|---------------------|------------------------|
-| Catalogue d'EPI (40+ catégories) | Catalogues Puzzles/Ouvertures avec filtres |
-| Workflow hiérarchique 4 niveaux | Architecture API multi-rôles |
-| Formulaires de demande | Formulaires Login/Register/Settings avec validation |
-| Export CSV/PDF | Export multi-format implémenté |
-| Gestion utilisateurs & rôles | Système Auth JWT complet |
-| Interface mobile terrain | 16 écrans React Native optimisés |
-| Notifications | Infrastructure WebSocket prête |
-
----
-
-## 👨‍💻 Auteur
+## ‍💻 Auteur
 
 **Iliass**  
 Élève Ingénieur 4ème année - EMINES  
-📧 Email : [votre.email@emines.um6p.ma]  
+📧 Email : [iliass.AitAli@emines.um6p.ma](mailto:iliass.AitAli@emines.um6p.ma)  
 💼 Projet réalisé dans le cadre d'un acte d'entrepreneuriat  
 
 ---
@@ -151,4 +137,4 @@ Projet personnel à but éducatif et portfolio.
 
 ---
 
-**⭐ Projet développé pour maîtriser React Native et préparer le stage MyEPI chez OCP Khouribga**
+**⭐ Projet développé pour maîtriser React Native et le développement mobile full-stack**
